@@ -1,4 +1,4 @@
-const correctPassword = "5201314";
+const correctPassword = "2010/8/24";
 const audio = document.getElementById('bgMusic');
 
 function checkPassword() {
